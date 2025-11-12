@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Barry Wu
 
-<!--
-**BarryWu0812/BarryWu0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently contributing to **Flyte**, open-source projects.
+- 💻 I'm learning **Python** and **Go** to build scalable **backend systems** and distributed applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kang-li-wu-a3101a169/)
+
+---
+
+### ⚙️ GitHub Analytics
+
+<div align="center">
+
+![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarryWu0812&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryWu0812&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=BarryWu0812&theme=radical&hide_border=false&border_radius=10)
+
+</div>
+
+---
