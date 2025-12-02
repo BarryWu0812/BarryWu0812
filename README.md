@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Barry Wu
 
 - 🌱 I'm currently contributing to **Flyte**, open-source projects.
-- 💻 I'm learning **Python** and **Go** to build scalable **backend systems** and distributed applications.
+- 💻 I'm learning **Python** and **Go** to build scalable backend systems and distributed applications.
 
 ---
 
