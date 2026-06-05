@@ -14,8 +14,8 @@
 
 <div align="center">
 
-![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarryWu0812&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryWu0812&layout=compact&theme=radical)
+![Barry's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BarryWu0812&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BarryWu0812&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=BarryWu0812&theme=radical&hide_border=false&border_radius=10)
 
 </div>
